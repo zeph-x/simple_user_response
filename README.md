@@ -1,7 +1,7 @@
 # Backend Stage 1 Task
 
 
-> [Preview deployed API 🚀](https:///) 
+> [Preview deployed API 🚀](https://basic-get-req.herokuapp.com/) 
 
 
 
