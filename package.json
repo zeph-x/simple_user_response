@@ -1,8 +1,8 @@
 {
-  "name": "casefile-management-api",
+  "name": "basic-get-req",
   "version": "0.0.0",
   "private": true,
-  "repository": "https://github.com/Sholias-LP/casefile-management-api",
+  "repository": "https://github.com/zeph-x/simple_user_response",
   "author": "Giwa Jossy <giwajossy@gmail.com>",
   "license": "MIT",
   "engines": {
