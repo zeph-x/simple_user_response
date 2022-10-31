@@ -21,7 +21,7 @@
 **Clone the repo**
 
 ```
-$ git clone https://github.com/
+$ git clone https://github.com/zeph-x/simple_user_response/
 ```
 
 **Install dependencies**
